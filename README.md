@@ -63,6 +63,8 @@ Further analysis of the election results shows that:
   
   ### Results Printed to Terminal
   
+  ![election_results_terminal](resources/election_results_terminal.jpg)   
   
   ### Results Prnted to Text File
   
+  ![election_analysis_txt](resources/election_analysis_txt.jpg) 
