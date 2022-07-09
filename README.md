@@ -15,20 +15,27 @@ A Colorado Board of Elections employee provided the following tasks to complete 
 
 ## Summary
 The analysis of the election shows that:
--There were 369,711 votes cast in the election.
+
+- There were 369,711 votes cast in the election.
+
 - The candidates were:
-  -- Charles Casper Stockham
-  -- Diana DeGette
-  -- Raymon Anthony Doane
--The Candidate results were:
-  -- Charles Casper Stockham received 23.0% of the vote and 85,213 votes.
-  -- Diana DeGette received 73.8% of the vote and 272,892 votes.
-  -- Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
--The winner of the election was:
-  -- Diana DeGette, who received 73.8% of the vote and 272,892 votes.
+ 
+  - Charles Casper Stockham
+  - Diana DeGette
+  - Raymon Anthony Doane
+  
+- The Candidate results were:
+
+  - Charles Casper Stockham received 23.0% of the vote and 85,213 votes.
+  - Diana DeGette received 73.8% of the vote and 272,892 votes.
+  - Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
+  
+- The winner of the election was:
+
+  - Diana DeGette, who received 73.8% of the vote and 272,892 votes.
   
 ## Challenge Overview
-For this challege, the goal was to determine the answers to the following questions:
+For this challenge, the goal was to determine the answers to the following questions:
 
 1. Get a complete list of counties that participated in these particular election results.
 2. Calculate the total number of votes from each county.
@@ -37,3 +44,25 @@ For this challege, the goal was to determine the answers to the following questi
 
 ## Challenge Summary
 Further analysis of the election results shows that:
+
+- The participating counties were:
+
+  - Jefferson
+  - Denver
+  - Arapahoe
+
+- The county election participation results were:
+
+  - Jefferson County contributed 10.5% of the votes with 38,855 votes
+  - Denver County contributed 82.8% of the votes with 306,055 votes
+  - Arapahoe County contributed 6.7% of the votes with 24,801 votes
+
+- The Largest County Turnout came from:
+  
+  - Denver County which contributed 82.8% of the votes with 306,055 votes
+  
+  ### Results Printed to Terminal
+  
+  
+  ### Results Prnted to Text File
+  
