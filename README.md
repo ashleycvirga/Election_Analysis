@@ -71,6 +71,10 @@ Further analysis of the election results shows that:
   
   ### Script Modification Capabilities
   
-  The script written to perform the above analyses was designed in a way that it may be easily modified to suit future neads of the election commission.
-  We were able to modify the script used in the original assignment to create new variables for counties and their related data and simpley interchange those variable   with a copied version of the script used to find candidate data. The script was not only able to be re-used for new variables within the same data set,  but it may     easily be re-used for future election data sets in a similar manner.  
+  The script written to perform the above analyses was designed in a way that it may be easily modified to suit future needs of the election commission.
+  
+  We were easily able to modify and re-use the script from the original assignment to complete the challenge. 
+  By creating new variables for counties and their related data and simpley interchanging them with the candidate variables in a copied version of the original script, the analysis provided us with exactly the county information we needed to complete the challenge. 
+  
+  The script was not only able to be re-used for new variables within the same data set,  but it may easily be re-used for future election data sets in a similar manner.  
   
