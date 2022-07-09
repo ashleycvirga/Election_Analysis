@@ -63,8 +63,14 @@ Further analysis of the election results shows that:
   
   ### Results Printed to Terminal
   
-  ![election_results_terminal](resources/election_results_terminal.jpg)   
+  ![election_results_terminal](Resources/election_results_terminal.jpg)   
   
   ### Results Prnted to Text File
   
-  ![election_analysis_txt](resources/election_analysis_txt.jpg) 
+  ![election_analysis_txt](Resources/election_analysis_txt.jpg) 
+  
+  ### Script Modification Capabilities
+  
+  The script written to perform the above analyses was designed in a way that it may be easily modified to suit future neads of the election commission.
+  We were able to modify the script used in the original assignment to create new variables for counties and their related data and simpley interchange those variable   with a copied version of the script used to find candidate data. The script was not only able to be re-used for new variables within the same data set,  but it may     easily be re-used for future election data sets in a similar manner.  
+  
