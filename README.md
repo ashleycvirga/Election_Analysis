@@ -65,7 +65,7 @@ Further analysis of the election results shows that:
   
   ![election_results_terminal](Resources/election_results_terminal.jpg)   
   
-  ### Results Prnted to Text File
+  ### Results Printed to Text File
   
   ![election_analysis_txt](Resources/election_analysis_txt.jpg) 
   
